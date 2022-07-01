@@ -17,4 +17,4 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmakiçin bir konu açınız.
 
 ## Licence
-(https://choosealicense.com/licenses/mit/ "MIT")
+[link](https://choosealicense.com/licenses/mit/ "MIT")
