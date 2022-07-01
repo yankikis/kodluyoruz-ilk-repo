@@ -11,7 +11,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:<br/>
-`cd kodluyoruzilkrepo <br/>code .`
+`cd kodluyoruzilkrepo`
+`code .`
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmakiçin bir konu açınız.
